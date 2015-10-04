@@ -6,7 +6,7 @@ Top pizzas is a specialized json rest client that outputs the top 20 most common
 
 ### Usage
 
-TopPizzas.exe [/dataSrc:<filePath|Uri>]
+TopPizzas.exe [/dataSrc:&lt;filePath|Uri&gt;]
 
 When invoked without arguments TopPizzas will look in the current directory for a file called pizzas.json then output the top 20 pizza configurations.
 
