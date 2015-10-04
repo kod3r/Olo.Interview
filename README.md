@@ -2,7 +2,7 @@
 Top Pizza Configuration Challenge
 
 ## Top Pizzas (TopPizzas.exe)
-Top pizzas is a specialized json rest client that outputs the top 20 most commonly ordered pizza configurations by consuming a json rest endpoint or by reading a specified file.
+TopPizzas is a specialized json rest client that outputs the top 20 most commonly ordered pizza configurations by consuming a json rest endpoint or by reading a specified file.
 
 ### Usage
 
